@@ -17,14 +17,14 @@ h2 {
     font-family: tahoma; 
     margin: 15px 0;
     font-size: 2em;
-	COLOR:#771011;
+	COLOR:#A6A9C8;
 }
 .titulo-informatica {
     color: #ECE6D3;
 }
 
 header {
-    background:#771011;
+    background:#A6A9C8;
     color: #525d66;
     padding: 20px 0;
     text-align: center;
@@ -181,7 +181,7 @@ footer {
 	z-index: 99;
 }
 .btn-flotante:hover {
-	background-color: #771011; 
+	background-color: #A6A9C8; 
 	box-shadow: 0px 15px 20px rgba(0, 0, 0, 0.3);
 	transform: translateY(-7px);
 }
